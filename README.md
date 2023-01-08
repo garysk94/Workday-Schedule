@@ -9,3 +9,5 @@ and if they refresh the page the memo will still be there.
 Bellow will be a picture of the website and the link to launch it. 
 
 https://garysk94.github.io/Workday-Schedule/
+
+![workday](https://user-images.githubusercontent.com/117596796/211179669-4175b617-b8f2-41cf-8d94-e8f5cabf0f30.png)
